@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AYZNN
 - 🌱 I’m currently working on WaveShield
-- 📫 How to reach me: ayznnnn#3964v
+- 📫 How to reach me: ayznnnn#3964
 
 <!---
 AYZNN/AYZNN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
