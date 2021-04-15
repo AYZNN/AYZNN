@@ -56,11 +56,11 @@
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYZNN&show_icons=true&hide_border=true&theme=radical">
 </p>
 
 <!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AYZNN&show_icons=true&hide_border=true&theme=dark)
 ![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
 
 <!-- repos
