@@ -1,4 +1,8 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  
+  
+[![Website](https://img.shields.io/website?label=waveshield.xyz&style=for-the-badge&url=http%3A%2F%2Fwaveshield.xyz)](https://waveshield.xyz)
+[![YouTube](https://img.shields.io/youtube/channel/views/UC1bAKyFoshu_MoJNv4dLXHQ?label=youtube&style=for-the-badge)](https://www.youtube.com/channel/UC1bAKyFoshu_MoJNv4dLXHQ)
 <p>
   <h1 align="center"><b>Hello there, I'm ayznnn 👋</b></h1>
 </p>
@@ -6,8 +10,6 @@
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/AYZNN" />
 </p>
-[![Website](https://img.shields.io/website?label=waveshield.xyz&style=for-the-badge&url=http%3A%2F%2Fwaveshield.xyz)](https://waveshield.xyz)
-[![Discord](https://discord.com/users/746079627751063644)
 
 <br>
 
