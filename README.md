@@ -25,7 +25,7 @@
 
 
 ---
-### Languages and Tools: 
+###🔥 Languages and Tools: 
 <img align="left" alt="LUA" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -43,6 +43,7 @@
 <br>
 
 ---
+###🔴 My GitHub Stats
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AYZNN&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
@@ -85,7 +86,7 @@ WaveShield, everytime, everywhere
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
-#### Thank You-🙏🏼
+#### Thank You 🙏🏼
 
 
 <!--[website]: -->
