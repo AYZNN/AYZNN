@@ -55,15 +55,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AYZNN&repo=waveshield&theme=dark" />
 </a>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</br>
+</br></br></br></br></br></br></br></br></br>
 
 ---
 📊 **This week I spent my time on**
