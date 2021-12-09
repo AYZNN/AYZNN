@@ -23,6 +23,8 @@
 
 <br>
 
+
+---
 ### Languages and Tools: 
 <img align="left" alt="LUA" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -39,6 +41,8 @@
 <br>
 <br>
 <br>
+
+---
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AYZNN&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
