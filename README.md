@@ -6,6 +6,8 @@
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/AYZNN" />
 </p>
+[![Website](https://waveshield.xyz)
+[![Discord](https://discord.com/users/746079627751063644)
 
 <br>
 
