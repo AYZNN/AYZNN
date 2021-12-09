@@ -4,9 +4,6 @@
   <h1 align="center"><b>Hello there, I'm ayznnn 👋</b></h1>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/AYZNN" />
-</p>
 [![Website](https://img.shields.io/website?label=waveshield.xyz&style=plastic&url=http%3A%2F%2Fwaveshield.xyz)](https://waveshield.xyz)
 [![YouTube](https://img.shields.io/youtube/channel/views/UC1bAKyFoshu_MoJNv4dLXHQ?label=youtube&style=plastic)](https://www.youtube.com/channel/UC1bAKyFoshu_MoJNv4dLXHQ)
 
