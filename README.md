@@ -3,10 +3,11 @@
 <p>
   <h1 align="center"><b>Hello there, I'm ayznnn 👋</b></h1>
 </p>
-
+<p align="center">
+![GitHub](https://komarev.com/ghpvc/?username=AYZNN&style=plastic)
 [![Website](https://img.shields.io/website?label=waveshield.xyz&style=plastic&url=http%3A%2F%2Fwaveshield.xyz)](https://waveshield.xyz)
 [![YouTube](https://img.shields.io/youtube/channel/views/UC1bAKyFoshu_MoJNv4dLXHQ?label=youtube&style=plastic)](https://www.youtube.com/channel/UC1bAKyFoshu_MoJNv4dLXHQ)
-
+</p>
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
