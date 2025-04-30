@@ -7,7 +7,7 @@
 
 ## 💻 Full-Stack Developer & Reverse Engineer
 
-I build innovative solutions and break things apart to understand how they work. Currently focused on security and competitive gaming platforms.
+I build innovative solutions and break things apart to understand how they work for over 6 years. Currently focused on security and competitive gaming platforms.
 
 ### 🚀 What I'm Working On
 
