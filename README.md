@@ -22,6 +22,7 @@ I build innovative solutions and break things apart to understand how they work.
 ### 🔥 Past Projects
 
 - Created, developed and managed StarLife, the largest French FiveM server few years ago
+- Developed Fortnite cheats, which gave me deep insights into game security (now I'm on the defense side!)
 
 ### 🛠️ Tech Stack
 
