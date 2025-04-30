@@ -1,81 +1,54 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-  
-<p>
-  <h1 align="center"><b>Hello there, I'm ayznnn 👋</b></h1>
-</p>
+# 👋 Hey there, I'm Ayznnn
 
-![GitHub](https://komarev.com/ghpvc/?username=AYZNN&style=plastic)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=AYZNN&style=plastic)
 [![Website](https://img.shields.io/website?label=waveshield.xyz&style=plastic&url=http%3A%2F%2Fwaveshield.xyz)](https://waveshield.xyz)
+[![Website](https://img.shields.io/website?label=elitetokens.gg&style=plastic&url=http%3A%2F%2Felitetokens.gg)](https://elitetokens.gg)
 [![YouTube](https://img.shields.io/youtube/channel/views/UC1bAKyFoshu_MoJNv4dLXHQ?label=youtube&style=plastic)](https://www.youtube.com/channel/UC1bAKyFoshu_MoJNv4dLXHQ)
-[![Discord](https://dcbadge.vercel.app/api/shield/746079627751063644?style=plastic&logoColor=presence&theme=clean)](https://discord.com/users/746079627751063644)
-<br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+## 💻 Full-Stack Developer & Reverse Engineer
 
-### I am a Developer
-- 🔭 I’m currently working on WaveShield, the best FiveM anticheat :grin:
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: ayznnnn#0667
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+I build innovative solutions and break things apart to understand how they work. Currently focused on security and competitive gaming platforms.
 
-<br>
+### 🚀 What I'm Working On
 
+- **[WaveShield](https://waveshield.xyz)** - A FiveM Anti-Cheat protecting over 10,000 servers from cheaters and exploits  
+- **[Elite Tokens](https://elitetokens.gg)** - A Fortnite matchmaking platform for competitive matches and tournaments
 
----
-### 🔥 Languages and Tools: 
-<img align="left" alt="LUA" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### 🌐 Project Communities
 
-<br>
-<br>
-<br>
-<br>
+[![WaveShield Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/waveshield?style=flat)](https://discord.gg/waveshield)
+[![Elite Tokens Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/wagers?style=flat)](https://discord.gg/wagers)
 
----
-### 🔴 My GitHub Stats
+### 🔥 Past Projects
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AYZNN&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+- Created, developed and managed StarLife, the largest French FiveM server few years ago
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYZNN&show_icons=true&hide_border=true&theme=radical">
+### 🛠️ Tech Stack
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-543978?style=flat-square&logoColor=white)
 
-<a href="https://github.com/AYZNN/waveshield">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AYZNN&repo=waveshield&theme=dark" />
-</a>
+### 📊 GitHub Stats
 
-</br></br></br></br></br></br></br></br></br>
+![Ayznnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYZNN&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYZNN&layout=compact&theme=tokyonight)
+
+### 🔗 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/-@__ayznnn__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_ayznnn_)
+[![Discord](https://img.shields.io/badge/-ayznnn-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/746079627751063644)
 
 ---
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-WaveShield, everytime, everywhere
-```
-<!--END_SECTION:waka-->
 
-<br>
-
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-#### Thank You 🙏🏼
-
-
-<!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
-<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141
+⚡ *"The best way to predict the future is to invent it."*
