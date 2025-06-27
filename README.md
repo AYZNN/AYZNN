@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Ayznnn
+# 👋 Hey there, I'm ayznnn
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=AYZNN&style=plastic)
 [![Website](https://img.shields.io/website?label=waveshield.xyz&style=plastic&url=http%3A%2F%2Fwaveshield.xyz)](https://waveshield.xyz)
