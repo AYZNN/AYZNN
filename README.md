@@ -11,10 +11,8 @@ I build innovative solutions and break things apart to understand how they work 
 
 ### 🚀 What I'm Working On
 
-- **[WaveShield](https://waveshield.xyz)** - A FiveM Anti-Cheat protecting over 10,000 servers from cheaters and exploits  
+- **[WaveShield](https://waveshield.xyz)** - A FiveM Anti-Cheat protecting over 20,000 servers from cheaters and exploits  
 - **[Elite Tokens](https://elitetokens.gg)** - A Fortnite matchmaking platform for competitive matches and tournaments
-
-### 🌐 Project Communities
 
 [![WaveShield Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/waveshield?style=flat)](https://discord.gg/waveshield)
 [![Elite Tokens Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/wagers?style=flat)](https://discord.gg/wagers)
@@ -40,16 +38,7 @@ I build innovative solutions and break things apart to understand how they work 
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-543978?style=flat-square&logoColor=white)
 
-### 📊 GitHub Stats
-
-![Ayznnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYZNN&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYZNN&layout=compact&theme=tokyonight)
-
 ### 🔗 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/-@__ayznnn__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_ayznnn_)
 [![Discord](https://img.shields.io/badge/-ayznnn-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/746079627751063644)
-
----
-
-⚡ *"The best way to predict the future is to invent it."*
