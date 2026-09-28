@@ -2,21 +2,23 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=AYZNN&style=plastic)
 [![Website](https://img.shields.io/website?label=waveshield.xyz&style=plastic&url=http%3A%2F%2Fwaveshield.xyz)](https://waveshield.xyz)
+[![Website](https://img.shields.io/website?label=usecenturion.app&style=plastic&url=http%3A%2F%2Fusecenturion.app)](https://usecenturion.app)
 [![Website](https://img.shields.io/website?label=elitetokens.gg&style=plastic&url=http%3A%2F%2Felitetokens.gg)](https://elitetokens.gg)
-[![YouTube](https://img.shields.io/youtube/channel/views/UC1bAKyFoshu_MoJNv4dLXHQ?label=youtube&style=plastic)](https://www.youtube.com/channel/UC1bAKyFoshu_MoJNv4dLXHQ)
 
 ## 💻 Full-Stack Developer & Reverse Engineer
 
-I build innovative solutions and break things apart to understand how they work for over 6 years. Currently focused on security and competitive gaming platforms.
+I build innovative solutions and break things apart to understand how they work for over 7 years.
 
 ### 🚀 What I'm Working On
 
-- **[WaveShield](https://waveshield.xyz)** - A FiveM Anti-Cheat protecting over 20,000 servers from cheaters and exploits  
+- **[WaveShield](https://waveshield.xyz)** - A FiveM Anti-Cheat protecting over 25,000 servers from cheaters and exploits  
+- **[Centurion](https://usecenturion.app)** - Spare change from every crypto transaction, rounded up into Robinhood Stock Tokens
 - **[Elite Tokens](https://elitetokens.gg)** - A Fortnite matchmaking platform for competitive matches and tournaments
 - Polymarket bots 🖨️💰
 
 [![WaveShield Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/waveshield?style=flat)](https://discord.gg/waveshield)
-[![Elite Tokens Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/wagers?style=flat)](https://discord.gg/wagers)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40usecenturion)](https://x.com/usecenturion)
+[![Elite Tokens Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/elitetokens?style=flat)](https://discord.gg/elitetokens)
 
 ### 🔥 Past Projects
 
